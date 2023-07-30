@@ -11,10 +11,18 @@
         <content type="html"><![CDATA[]]></content>
       
       
+      <categories>
+          
+          <category> Golang </category>
+          
+          <category> Go语法 </category>
+          
+      </categories>
+      
       
         <tags>
             
-            <tag> golang </tag>
+            <tag> Golang </tag>
             
         </tags>
       
